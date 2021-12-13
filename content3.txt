@@ -1,1 +1,0 @@
-another text file is added to the git exercise. have fun learning git with us.
