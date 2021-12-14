@@ -1,1 +1,2 @@
 another text file is added to the git exercise. have fun learning git with us.
+the ned releases for the new branch hasn't been ready yet.
